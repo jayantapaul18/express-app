@@ -1,0 +1,14 @@
+{
+  "name": "docker",
+  "version": "0.0.1",
+  "description": "docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jayanta Paul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
